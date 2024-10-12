@@ -1,4 +1,4 @@
-# Gantry Arm ROS2 GAzebo Simulation 
+# Pick and Place Robot arm  Simulation 
 
 This README.md file is a overview of a pick-and-place robot arm for stacking application developed in ROS2 using Moveit2, in collaboration with [Mr. Lentin Joseph.](https://www.linkedin.com/in/lentinjoseph/).
 
