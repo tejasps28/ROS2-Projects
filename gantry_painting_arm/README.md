@@ -15,6 +15,10 @@ Here are the steps:
 
 - Using the segmented images and it's corresponding pointcloud, we generate waypoints for computing cartesian plan.
 
+Checkout the demo gif below!
+
+![Gantry Robot Demo](https://raw.githubusercontent.com/tejasps28/ROS2-Projects/main/gantry_painting_arm/img/gantry_gif.gif)
+
 
 ## Future Work
 
